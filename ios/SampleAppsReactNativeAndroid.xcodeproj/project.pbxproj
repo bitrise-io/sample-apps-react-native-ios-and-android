@@ -1000,8 +1000,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bitrise Bot (VV2J4SV8V4)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bitrise Bot (VV2J4SV8V4)";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 72SA8V3WYL;
@@ -1014,7 +1014,7 @@
 				);
 				PRODUCT_NAME = SampleAppsReactNativeAndroid;
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = "BitriseBot-Wildcard";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1023,7 +1023,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bitrise Bot (VV2J4SV8V4)";
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = SampleAppsReactNativeAndroid/Info.plist;
@@ -1035,7 +1035,7 @@
 				);
 				PRODUCT_NAME = SampleAppsReactNativeAndroid;
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = "BitriseBot-Wildcard";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
